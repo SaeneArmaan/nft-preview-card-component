@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/SaeneArmaan/nft-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live URL](https://nft-preview-card-saenearmaan.netlify.app/)
 
 ### Built with
 
